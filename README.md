@@ -1,2 +1,2 @@
 # sample-port-scanner-
-its an basic port scanner 
+It's an basic port scanner 
